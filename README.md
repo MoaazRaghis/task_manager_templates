@@ -300,24 +300,3 @@ python manage.py test
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🐛 Known Issues
-
-- CORS headers middleware is referenced but not fully configured in INSTALLED_APPS
-- Duplicate router registration in main URLs
-- Consider adding pagination for todo lists
-- Add input validation and error handling improvements
-
-## 🔮 Future Enhancements
-
-- [ ] Add task categories and tags
-- [ ] Implement due dates for todos
-- [ ] Add task priority levels
-- [ ] Email notifications for reminders
-- [ ] Frontend web interface
-- [ ] API rate limiting
-- [ ] Advanced filtering and search
-- [ ] Task sharing between users
-
----
-
-For any questions or issues, please open an issue on GitHub or contact the development team.
